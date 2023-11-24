@@ -19,6 +19,7 @@ header {
 main {
     width: 90%;
     
+    
 }
 body {
     font-family: 'Roboto';
@@ -152,6 +153,7 @@ li {
     flex-grow: 0,5;
     align-self: center;
     justify-content: center;
+  
 }
 
 .lupa {
